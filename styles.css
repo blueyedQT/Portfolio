@@ -5,12 +5,32 @@ body {
 #header {
 	background-color: #333333;
 	width: 100%;
-	height: 100px;
+	height: 125px;
 	vertical-align: top;
+	margin-bottom: 50px;
 }
 
-.site {
-	background-color: green;
+.profile {
+	padding: 25px;
+}
+
+.intro {
+	font-size: 1.5em;
+}
+
+.projects {
+	text-align: center;
+}
+
+.project {
 	height: 200px;
 	width: 200px;
+	margin: 15px 10px;
+}
+
+#footer {
+	margin-top: 35px;
+	background-color: #333333;
+	width: 100%;
+	height: 75px;
 }
