@@ -11,11 +11,16 @@ body {
 }
 
 .profile {
-	padding: 25px;
+	padding: 25px 50px;
+}
+
+.links {
+	margin-top: 50px;
 }
 
 .intro {
 	font-size: 1.5em;
+	margin: 20px;
 }
 
 .projects {
